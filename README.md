@@ -1,3 +1,3 @@
 # bazel-releases-arm
 
-Here a builds of different versions of bazel for arm architecture
+Here a builds of different versions of bazel for arm architecture (Linux)
